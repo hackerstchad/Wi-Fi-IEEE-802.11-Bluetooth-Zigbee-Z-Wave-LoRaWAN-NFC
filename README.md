@@ -62,8 +62,6 @@ Ce guide s'adresse aux :
 - Étudiants en informatique et électronique
 - Passionnés de domotique, de smart city et de cybersécurité
 
-Toutes les commandes présentées dans ce guide sont fournies à des fins éducatives et doivent être utilisées uniquement sur des réseaux et des équipements pour lesquels vous disposez d'une autorisation explicite.
-
 ---
 
 ## Méthodologie de Ce Guide
