@@ -1,7 +1,4 @@
-# <p align="center"><font color="green">████████████████████████████████████████████████████████</font></p>
-# <p align="center"><font color="green">CYBER-NETWORK PROTOCOLS MASTER HANDBOOK</font></p>
-# <p align="center"><font color="green">WI-FI (IEEE 802.11) | BLUETOOTH | ZIGBEE | Z-WAVE | LORAWAN | NFC</font></p>
-# <p align="center"><font color="green">████████████████████████████████████████████████████████</font></p>
+
 
 <div align="center">
 
@@ -23,7 +20,7 @@
 
 ---
 
-## 📑 Table des Matières
+##  Table des Matières
 
 1. [Introduction Générale](#introduction-générale)
 2. [Méthodologie de Ce Guide](#méthodologie-de-ce-guide)
@@ -1673,21 +1670,6 @@ La sécurité des réseaux sans fil repose sur trois piliers :
 
 **2026**
 
-### Licence
-
-Ce document est fourni à des fins éducatives et informatives. Vous êtes libre de le partager et de l'adapter selon les termes de la licence **Creative Commons BY-SA 4.0**, sous réserve de mentionner l'auteur original.
-
-### Avertissement
-
-Les techniques et commandes présentées dans ce guide sont destinées à l'apprentissage, à l'audit de sécurité autorisé et à l'administration de réseaux dont vous êtes propriétaire ou pour lesquels vous disposez d'une autorisation explicite.
-
-L'accès non autorisé à un système informatique ou à un réseau de télécommunications est un délit dans de nombreux pays. L'auteur et les contributeurs de ce document déclinent toute responsabilité quant à l'utilisation illégale ou malveillante des informations fournies.
-
-**Utilisez ces connaissances de manière éthique et responsable.**
-
----
-
-<div align="center">
 
 <p>
   <font color="green">████████████████████████████████████████████████████████</font>
