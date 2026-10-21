@@ -1661,7 +1661,6 @@ La sécurité des réseaux sans fil repose sur trois piliers :
 
 ---
 
-## Licence & Avertissement Légal
 
 ### Auteur
 
@@ -1671,15 +1670,3 @@ La sécurité des réseaux sans fil repose sur trois piliers :
 
 **2026**
 
-
-<p>
-  <font color="green">████████████████████████████████████████████████████████</font>
-</p>
-<p>
-  <font color="green">FIN DU CYBER-NETWORK PROTOCOLS MASTER HANDBOOK</font>
-</p>
-<p>
-  <font color="green">████████████████████████████████████████████████████████</font>
-</p>
-
-</div>
