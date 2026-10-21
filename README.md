@@ -1,3 +1,6 @@
+Wi-Fi (IEEE 802.11), Bluetooth, Zigbee, Z-Wave, LoRaWAN, NFC
+
+<img width="1024" height="371" alt="1c1244c3-aec8-4023-8319-1932c48933b3" src="https://github.com/user-attachments/assets/89505b00-92b7-4e39-b398-e02c118083c1" />
 
 
 <div align="center">
